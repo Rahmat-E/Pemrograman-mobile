@@ -1,4 +1,4 @@
-Praktikum Pemrograman Mobile - J
+Praktikum Pemrograman Mobile - A
 Rahmat Enomoto
 230605110010
 
