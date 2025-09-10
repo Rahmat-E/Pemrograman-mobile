@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              // Baris pertama
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: const [
@@ -33,7 +32,7 @@ class MyApp extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 20),
-              // Baris kedua
+  
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: const [
@@ -89,3 +88,4 @@ class KotakCustom extends StatelessWidget {
     );
   }
 }
+
