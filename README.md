@@ -1,11 +1,11 @@
-# 📱 Praktikum Pemrograman Mobile - A
+#  Praktikum Pemrograman Mobile - A
 
 **Nama:** Rahmat Enomoto  
 **NIM:** 230605110010  
 
 ---
 
-## 📘 Daftar Praktikum
+##  Daftar Praktikum
 
 | No | Minggu ke | Praktikum ke | Topik | Laporan | Kode Program |
 |----|------------|---------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
